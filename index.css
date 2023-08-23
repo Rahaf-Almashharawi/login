@@ -1,0 +1,118 @@
+ body {
+     background-color: #efeff2;
+ }
+
+ .one {
+     width: 450px;
+     padding-left: 99px;
+     font-size: 30px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     line-height: -20px;
+
+ }
+
+ .pic {
+     width: 300px;
+     background-position: center;
+     padding-top: 170px;
+
+ }
+
+ .one1 {
+     width: auto;
+     font-size: 26px;
+     line-height: 30px;
+ }
+
+ .box1 {
+     width: 400px;
+     height: 340px;
+     float: right;
+     background-color: white;
+     margin-top: -271px;
+     margin-right: 150px;
+     border-radius: 10px;
+     align-items: center;
+ }
+
+ .form1 {
+     text-align: center;
+     margin-top: 20px;
+     font-family: Helvetica, Arial, sans-serif;
+     line-height: 12px;
+ }
+
+
+
+ .q,
+ .P {
+     width: 360px;
+     height: 48px;
+     font-size: 17px;
+     border-radius: 5px;
+     border-color: aliceblue;
+ }
+
+ .q,
+ .P:hover {
+     border: 1px solid #1877f2;
+ }
+
+ button {
+
+     width: 370px;
+     height: 48px;
+     font-size: 19px;
+     color: white;
+     border: none;
+     font-weight: bolder;
+     border-radius: 5px;
+     background-color: #1877f2;
+
+ }
+
+ .link1,
+ .link2 {
+     color: white;
+     text-decoration: none;
+ }
+
+ .link {
+     font-size: 14px;
+     margin-top: 20px;
+ }
+
+ .link:hover {
+     text-decoration: underline;
+     color: #1877f2;
+ }
+
+ .S1 {
+     width: 200px;
+     height: 48px;
+     font-family: Helvetica, Arial, sans-serif;
+     font-size: 17px;
+     color: white;
+     border: none;
+     border-radius: 8px;
+     background-color: #20b71d;
+     margin-top: 14px;
+ }
+
+ .face {
+     margin-top: 50px;
+     text-align: center;
+     font-family: Helvetica, Arial, sans-serif;
+     font-size: 14px;
+ }
+
+ .Fa {
+     text-decoration: none;
+     color: black;
+     font-weight: bolder;
+ }
+
+ .Fa:hover {
+     text-decoration: underline;
+     color: black;
+ }
