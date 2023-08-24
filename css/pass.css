@@ -77,4 +77,11 @@ body {
     float: left;
     margin-top: 90px;
     margin-left: 350px;
+    border-radius: 8px;
+}
+
+.new-pass {
+    width: 20px;
+    font-weight: bolder;
+
 }
