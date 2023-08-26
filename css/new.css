@@ -1,0 +1,224 @@
+body {
+    background-color: #efeff2;
+}
+
+.pic2 {
+    width: 300px;
+    background-position: center;
+    padding-top: 5px;
+    margin-left: 475px;
+}
+
+.boxC {
+    width: 500px;
+    height: 643px;
+    float: left;
+    background-color: white;
+    margin-top: -7px;
+    margin-left: 389px;
+    border-radius: 10px;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.form4 {
+    text-align: center;
+    margin-top: 20px;
+    font-family: Helvetica, Arial, sans-serif;
+    line-height: 12px;
+}
+
+.add {
+    color: #1c1e21;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 600;
+    margin-top: -10px
+}
+
+.min {
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #606770;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    margin-top: -30px;
+}
+
+.In1 {
+    width: 220px;
+    margin-right: 249px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 173, 173);
+}
+
+.In2 {
+    width: 220px;
+    float: right;
+    margin-top: -43px;
+    margin-right: 21px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 173, 173);
+}
+
+.In3 {
+    width: 462px;
+    margin-right: 8px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 173, 173);
+}
+
+.birth,
+.Ge {
+    float: left;
+    margin-left: 15px;
+    color: gray;
+    font-size: unset;
+    margin-top: auto;
+}
+
+button {
+
+    width: 395px;
+    height: 50px;
+    font-size: 19px;
+    color: white;
+    border: none;
+    font-weight: bolder;
+    border-radius: 5px;
+    background-color: #1877f2;
+
+}
+
+.B {
+    width: 145px;
+    margin-right: 324px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 173, 173);
+}
+
+.I {
+    width: 145px;
+    float: right;
+    margin-top: -43px;
+    margin-right: 180px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 173, 173);
+}
+
+.R {
+    width: 139px;
+    float: right;
+    margin-top: -53px;
+    margin-right: 28px;
+    margin-bottom: 10px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 5px;
+    border: 1px solid rgb(179, 173, 173);
+}
+
+.G {
+    width: 140px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: 37px;
+    margin-left: 14px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.Female {
+    margin: 23px;
+    font-size: 17px;
+    margin-left: auto;
+}
+
+.fe {
+    width: 20px;
+    margin-top: 12px;
+    margin-left: 21px;
+
+}
+
+.E {
+    width: 140px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: -41px;
+    margin-left: 170px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.N {
+    width: 140px;
+    height: 40px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    margin: auto;
+    margin-top: -41px;
+    margin-left: 327px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.Pe {
+    text-align: left;
+    color: gray;
+    margin-left: 20px;
+    font-size: small;
+    margin-bottom: 10px;
+    line-height: 17px;
+}
+
+.learn {
+    text-decoration: none;
+    color: #265798;
+}
+
+.learn:hover {
+    text-decoration: underline;
+}
+
+button {
+    width: 215px;
+    height: 46px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 19px;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    background-color: #20b71d;
+    margin-top: 14px;
+
+}
+
+.linkA {
+    color: white;
+    text-decoration: none;
+}
+
+.linkB {
+    font-size: 18px;
+    margin-top: 20px;
+}
